@@ -7,7 +7,7 @@
     
     <section class="intro">
       <h2>Why Choose Us?</h2>
-      <p>At BlackEndpoints, we're dedicated to simplifying API development and management. Our platform provides developers with the tools they need to build, test, and deploy APIs efficiently.</p>
+      <p>At BlackEndpoints, we make it easy to discover and support Black-owned businesses by providing a trusted, user-friendly directory that connects communities and empowers economic growth.</p>
     </section>
 
     <section class="newsletter">
@@ -71,11 +71,13 @@ export default {
   padding: 2rem;
   background-color: var(--card-bg);
   border-radius: 8px;
+  text-align: center;
 }
 
 .intro h2 {
   margin-bottom: 1rem;
   color: var(--text-color);
+  text-align: center;
 }
 
 .newsletter {
